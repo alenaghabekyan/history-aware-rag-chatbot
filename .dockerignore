@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.git/
+.gitignore
+.env
+*.log
+.DS_Store
+*.db
+db/chroma_db/
+.vscode/
+.pytest_cache/
+.mypy_cache/
